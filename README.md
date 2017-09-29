@@ -9,3 +9,4 @@
 
 ## Структуры данных
 1. [Стек](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/stack.js)
+2. [Очередь](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/queue.js)

@@ -2,31 +2,25 @@ class Node {
     constructor(data) {
         this.data = data;
         this.next = null;
-        this.last = null;
     }
 }
 
-export default class Stack {
+export default class Queue {
     constructor(data) {
         this.head = null;
-        this.last = null;
         this.size = 0;
     }
-    push(data) {
+    enqueue(data) {
         const newNode = new Node(data);
         if (this.head === null && this.size < 1) {
             this.head = newNode;
         } else {
-            let current = this.head;
-            while (current.next !== null) {
-                current = current.next;
-            }
-            current.next = newNode;
+            newNode.next = this.head;
+            this.head = newNode;
         }
-        this.last = newNode;
         this.size++;
     }
-    pop() {
+    dequeue() {
         if (this.size === 0) {
             return;
         }
@@ -44,7 +38,11 @@ export default class Stack {
         return popElement;
     }
     peek() {
-        return this.last;
+        let current = this.head;
+        while (current.next !== null) {
+            current = current.next;
+        }
+        return current;
     }
     print() {
         let iterator = this.head;
