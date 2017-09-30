@@ -25,7 +25,10 @@ export default class Queue {
             return;
         }
         if (this.size === 1) {
-            return this.head;
+            const popElement = this.head;
+            this.head = null;
+            this.size--;
+            return popElement;
         }
         let current = this.head;
         while (current.next.next !== null) {
@@ -43,6 +46,9 @@ export default class Queue {
             current = current.next;
         }
         return current;
+    }
+    length() {
+        return this.size;
     }
     print() {
         let iterator = this.head;
