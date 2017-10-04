@@ -1,4 +1,4 @@
-import { swap } from "../utils/helpers.js";
+import { swap } from "../../utils/helpers.js";
 
 export default function bubbleSort(array) {
     for (let i = 0; i < array.length; i++) {
