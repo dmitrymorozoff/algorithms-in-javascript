@@ -14,3 +14,7 @@
 
 ## Деревья
 1. [Двоичное дерево поиска](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/trees/binary-tree.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0)
+
+## Поиск
+1. [Линейный поиск](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/linear-search.js) | [Инфо](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
+1. [Двоичный поиск](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/binary-search.js) | [Инфо](https://prog-cpp.ru/search-binary/)
