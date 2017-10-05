@@ -18,4 +18,8 @@
 
 ## Поиск
 1. [Линейный поиск](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/linear-search.js) | [Инфо](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
-1. [Двоичный поиск](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/binary-search.js) | [Инфо](https://prog-cpp.ru/search-binary/)
+2. [Двоичный поиск](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/binary-search.js) | [Инфо](https://prog-cpp.ru/search-binary/)
+
+
+## Хеширование
+1. [Хеш-таблица](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/hash-table.js) | [Инфо](https://bitsofmind.wordpress.com/2008/07/28/introduction_in_hash_tables/)
