@@ -23,3 +23,6 @@
 
 ## Хеширование
 1. [Хеш-таблица](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/hash-table.js) | [Инфо](https://bitsofmind.wordpress.com/2008/07/28/introduction_in_hash_tables/)
+
+## Другое
+1. [Решето Эратосфена](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/sieve-of-eratosthenes.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0)
