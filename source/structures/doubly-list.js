@@ -115,13 +115,3 @@ export default class DoublyList {
         }
     }
 }
-
-let d = new DoublyList();
-d.addFirst(1);
-d.addFirst(2);
-d.addFirst(3);
-d.addFirst(4);
-d.addFirst(5);
-d.remove(4);
-d.print();
-console.log(d);
