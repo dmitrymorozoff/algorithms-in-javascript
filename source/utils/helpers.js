@@ -2,13 +2,13 @@
  * Функция для обмена двух элементов массива
  * 
  * @param {any} array Массив с элементами
- * @param {any} a Индекс первого элемента
- * @param {any} b Индекс второго элемента
+ * @param {any} firstIndex Индекс первого элемента
+ * @param {any} secondIndex Индекс второго элемента
  */
-export function swap(array, a, b) {
-    const tmp = array[a];
-    array[a] = array[b];
-    array[b] = tmp;
+export function swap(array, firstIndex, secondIndex) {
+    const tmp = array[firstIndex];
+    array[firstIndex] = array[secondIndex];
+    array[secondIndex] = tmp;
 }
 
 /**
