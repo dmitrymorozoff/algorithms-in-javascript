@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node server.js",
+        "test": "jest"
     },
     "author": "Morozov Dmitry",
     "license": "MIT",
@@ -12,6 +13,7 @@
         "babel-preset-es2015": "^6.24.1"
     },
     "devDependencies": {
-        "express": "^4.15.4"
+        "express": "^4.15.4",
+        "jest": "^21.2.1"
     }
 }
