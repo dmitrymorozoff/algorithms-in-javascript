@@ -26,5 +26,8 @@
 1. [Хеш-таблица / Hash-Table](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/hash-table.js) | [Инфо](https://bitsofmind.wordpress.com/2008/07/28/introduction_in_hash_tables/)
 2. [Хеш-таблица c открытой адресацией / Linear hashing](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/linear-hashing/linear-hashing.js) | [Инфо](http://algolist.manual.ru/ds/s_has.php)
 
+## Шифрование / Cryptographic
+1. [Шифр Цезаря / Caesar Cipher](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/cryptographic/caesar-cipher/caesar-cipher.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8F)
+
 ## Другое / Other
 1. [Решето Эратосфена / Sieve Of Eratosthenes](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/sieve-of-eratosthenes.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0)
