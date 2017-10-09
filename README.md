@@ -31,4 +31,7 @@
 1. [Шифр Цезаря / Caesar Cipher](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/cryptographic/caesar-cipher/caesar-cipher.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8F)
 
 ## Другое / Other
-1. [Решето Эратосфена / Sieve Of Eratosthenes](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/sieve-of-eratosthenes.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0)
+1. [Решето Эратосфена / Sieve Of Eratosthenes](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/sieve-of-eratosthenes/sieve-of-eratosthenes.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0)
+2. [Тасование Фишера — Йетса / Fisher–Yates Shuffle](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/fisher-yates/fisher-yates.js) | [Инфо](http://wiki-org.ru/wiki/%D0%A2%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A4%D0%B8%D1%88%D0%B5%D1%80%D0%B0%E2%80%93%D0%99%D0%B5%D1%82%D1%81%D0%B0)
+3. [Числа Фибоначчи / Fibonacci Sequence](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/other/fibonacchi/fibonacchi.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%A4%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D1%87%D0%B8)
+
