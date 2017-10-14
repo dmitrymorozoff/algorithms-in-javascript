@@ -8,6 +8,7 @@
 3. [Сортировка подсчётом / Counting Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/counting-sort/counting-sort.js) | [Инфо](https://www.youtube.com/watch?v=6dk_csyWif0)
 4. [Сортировка чёт-нечет / OddEven Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/odd-even-sort/odd-even-sort.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%87%D1%91%D1%82-%D0%BD%D0%B5%D1%87%D0%B5%D1%82)
 5. [Быстрая сортировка / Quick Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/quick-sort/quick-sort.js) | [Инфо](https://habrahabr.ru/sandbox/29775/)
+6. [Сортировка кучей / Heap Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/heap/binary-heap/binary-heap.js) | [Инфо](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D1%83%D1%87%D0%B5%D0%B9)
 
 ## Структуры данных / Data Structures
 1. [Стек / Stack](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/stack.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BA)
@@ -17,6 +18,9 @@
 
 ## Деревья / Tree
 1. [Двоичное дерево поиска / Binary Search Tree](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/trees/binary-tree.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0)
+
+## Кучи / Heap
+1. [Двоичная куча / Binary Heap](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/heap/binary-heap/binary-heap.js) | [Инфо](https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D1%87%D0%B0)
 
 ## Поиск / Search
 1. [Линейный поиск / Linear Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/linear-search.js) | [Инфо](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
