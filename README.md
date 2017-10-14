@@ -25,7 +25,7 @@
 ## Поиск / Search
 1. [Линейный поиск / Linear Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/linear-search.js) | [Инфо](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
 2. [Двоичный поиск / Binary Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/binary-search.js) | [Инфо](https://prog-cpp.ru/search-binary/)
-
+3. [Поиск в ширину / Breadth-First Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/breadth-first-search.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B2_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D1%83)
 
 ## Хеширование / Hashing
 1. [Хеш-таблица / Hash-Table](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/hash-table.js) | [Инфо](https://bitsofmind.wordpress.com/2008/07/28/introduction_in_hash_tables/)
