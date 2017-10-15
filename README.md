@@ -11,6 +11,7 @@
 6. [Сортировка кучей / Heap Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/heap/binary-heap/binary-heap.js) | [Инфо](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D1%83%D1%87%D0%B5%D0%B9)
 7. [Гномья сортировка / Gnome sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/gnome-sort/gnome-sort.js) | [Инфо](http://sorting.valemak.com/gnome/)
 7. [Соломонова Сортировка / Solomon sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/solomon-sort/solomon-sort.js) | [Инфо](http://sorting.valemak.com/solomon/)
+7. [Бисерная сортировка / Bead Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/bead-sort/bead-sort.js) | [Инфо](http://sorting.valemak.com/bead/)
 
 ## Структуры данных / Data Structures
 1. [Стек / Stack](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/stack.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BA)
