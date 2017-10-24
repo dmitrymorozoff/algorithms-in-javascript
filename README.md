@@ -8,7 +8,11 @@
 3. [Сортировка подсчётом / Counting Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/counting-sort/counting-sort.js) | [Инфо](https://www.youtube.com/watch?v=6dk_csyWif0)
 4. [Сортировка чёт-нечет / OddEven Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/odd-even-sort/odd-even-sort.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%87%D1%91%D1%82-%D0%BD%D0%B5%D1%87%D0%B5%D1%82)
 5. [Быстрая сортировка / Quick Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/quick-sort/quick-sort.js) | [Инфо](https://habrahabr.ru/sandbox/29775/)
-6. [Поразрядная сортировка / Radix Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/radix-sort/radix-sort.js) | [Инфо](http://trubetskoy1.narod.ru/alg/radixsort.html)
+6. [Сортировка кучей / Heap Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/heap/binary-heap/binary-heap.js) | [Инфо](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D1%83%D1%87%D0%B5%D0%B9)
+7. [Гномья сортировка / Gnome sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/gnome-sort/gnome-sort.js) | [Инфо](http://sorting.valemak.com/gnome/)
+8. [Соломонова Сортировка / Solomon sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/solomon-sort/solomon-sort.js) | [Инфо](http://sorting.valemak.com/solomon/)
+9. [Бисерная сортировка / Bead Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/bead-sort/bead-sort.js) | [Инфо](http://sorting.valemak.com/bead/)
+10. [Поразрядная сортировка / Radix Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/radix-sort/radix-sort.js) | [Инфо](http://trubetskoy1.narod.ru/alg/radixsort.html)
 
 ## Структуры данных / Data Structures
 1. [Стек / Stack](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/stack.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BA)
@@ -19,10 +23,13 @@
 ## Деревья / Tree
 1. [Двоичное дерево поиска / Binary Search Tree](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/trees/binary-tree.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0)
 
+## Кучи / Heap
+1. [Двоичная куча / Binary Heap](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/heap/binary-heap/binary-heap.js) | [Инфо](https://neerc.ifmo.ru/wiki/index.php?title=%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D1%87%D0%B0)
+
 ## Поиск / Search
 1. [Линейный поиск / Linear Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/linear-search.js) | [Инфо](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
 2. [Двоичный поиск / Binary Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/binary-search.js) | [Инфо](https://prog-cpp.ru/search-binary/)
-
+3. [Поиск в ширину / Breadth-First Search](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/search/breadth-first-search.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B2_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D1%83)
 
 ## Хеширование / Hashing
 1. [Хеш-таблица / Hash-Table](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/hash-table/hash-table.js) | [Инфо](https://bitsofmind.wordpress.com/2008/07/28/introduction_in_hash_tables/)
