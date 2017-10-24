@@ -41,3 +41,16 @@ export function repeatString(firstString, secondString) {
     }
     return resultString;
 }
+
+/**
+ * Вставка нулей в начало строки до определенной длины
+ * @param {any} num Число
+ * @param {any} size Размер финальной строки
+ */
+export function pad(num, size) {
+    var string = num.toString();
+    while (string.length < size) {
+        string = "0" + string;
+    }
+    return string;
+}

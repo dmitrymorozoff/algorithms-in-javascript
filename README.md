@@ -8,6 +8,7 @@
 3. [Сортировка подсчётом / Counting Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/counting-sort/counting-sort.js) | [Инфо](https://www.youtube.com/watch?v=6dk_csyWif0)
 4. [Сортировка чёт-нечет / OddEven Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/odd-even-sort/odd-even-sort.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%87%D1%91%D1%82-%D0%BD%D0%B5%D1%87%D0%B5%D1%82)
 5. [Быстрая сортировка / Quick Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/quick-sort/quick-sort.js) | [Инфо](https://habrahabr.ru/sandbox/29775/)
+6. [Поразрядная сортировка / Radix Sort](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/sorts/radix-sort/radix-sort.js) | [Инфо](http://trubetskoy1.narod.ru/alg/radixsort.html)
 
 ## Структуры данных / Data Structures
 1. [Стек / Stack](https://github.com/dmitrymorozoff/algorithms-in-javascript/blob/master/source/structures/stack.js) | [Инфо](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BA)
